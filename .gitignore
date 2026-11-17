@@ -1,0 +1,7 @@
+env/
+__pycache__/
+*.pyc
+agente/.env
+agente/data/auditoria.jsonl
+.adk/
+valhalla_ventas(1).csv
